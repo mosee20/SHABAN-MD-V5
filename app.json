@@ -1,5 +1,5 @@
 {
-  "name": "SHABAN-MD",
+  "name": "KHALIK-MD",
   "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
   "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
   "keywords": ["SHABAN-MD"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~3Is3mRIL#4vKZKtASTk_LsnmhJG9aOrRK7sivbsZ0aEvLGevHEOg",
       "required": true,
       "value": ""
     },  
